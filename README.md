@@ -50,7 +50,7 @@ export const OsamaMalik = Developer.getInstance();
 
 ### Let's connect and learn from each other
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
-  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/malikosama/)
+  [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/malikosama/)
   [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/31496840)
   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/osamalik)
   <!-- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ozziemalic/) -->
