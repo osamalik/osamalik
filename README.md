@@ -49,7 +49,7 @@ export const OsamaMalik = Developer.getInstance();
 [![](https://visitcount.itsvg.in/api?id=osamalik&icon=0&color=9)](https://visitcount.itsvg.in)
 
 ### Let's connect and learn from each other
-  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@gmail.com)
+  [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:osamalik97@gmail.com)
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/malikosama/)
   [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/31496840)
   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/osamalik)
