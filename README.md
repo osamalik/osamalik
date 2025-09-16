@@ -1,6 +1,6 @@
-![Profile Image]()
+![Profile Image](https://github.com/osamalik/osamalik/blob/main/hello-gif-15.gif)
 
-Hi, _I’m Osama_ 
+Myself, _Usama Malik_ 👋 
 I am a full stack engineer who spends his time turning coffee into scalable web solutions.
 
 ```
