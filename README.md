@@ -22,10 +22,10 @@ export const OsamaMalik = Developer.getInstance();
 
 
 ```
-🌐 I craft web experiences from the ground up — from front-end pixels to back-end logic, and everything in between (yes, even that weird API that barely works).<br>
-📚 Currently diving deep into system architecture — because someone has to figure out why that one service keeps crashing at 2 AM.<br>
-🤝 Open to collaborating on modern web solutions. If your project has a purpose and a poorly-drawn wireframe, I’m in.<br>
-💬 Love talking about code, but equally ready to debate over politics, cricket strategies, best travel hacks, or why biryani doesn’t need aloo (fight me).<br>
+🌐 I create web experiences from front-end pixels to back-end logic, including that quirky API that barely works.<br>
+📚 Diving into system architecture to solve those 2 AM service crashes<br>
+🤝 open to collaborating on purpose-driven web projects (even with sketchy wireframes).<br>
+💬 love discussing code, politics, cricket, travel hacks, and why biryani doesn’t need aloo (fight me).<br>
 📫 Hit me up: **_[osamalik97@gmail.com](mailto:osamalik97@gmail.com)_**<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I debug code the same way I cook — trial, error, and a little panic.<br>
